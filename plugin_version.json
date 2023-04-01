@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "v7beta.virtualuainc.org",
+      "host": "vector7.vuainc.org",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
